@@ -2,4 +2,6 @@
 
 An Expression Blend style theme for Visual Studio 2015
 
-Here are the settings I use to get rid of the horrible black and white Blend theme in Visual Studio 2015/Blend. Use at your own risk.
+If, like me, you hate the terrible "Dark" theme for Visual Studio\Blend 2015 here is an theme based on the original Expression Blend 4 color scheme.
+
+Note: I have only styled the components that I use regularly so YMMV.
